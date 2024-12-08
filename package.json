@@ -1,0 +1,20 @@
+{
+  "name": "springsimu",
+  "version": "1.0.0",
+  "description": "バネを使った物理シミュレータ",
+  "scripts": {
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bem130/springsimu.git"
+  },
+  "author": "bem130 <bem130@ymail.ne.jp>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bem130/springsimu/issues"
+  },
+  "devDependencies": {
+    "typescript": "^5.7.2"
+  }
+}
